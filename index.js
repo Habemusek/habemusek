@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const BotClient = new Discord.Client();
-const BotToken = "NzA5NjYxMTYyNjMwODA3NTc1.Xrp1vQ.0_hnhLhrH-xR5yX-68QfyiWOv7I";
+const BotToken = "NzA5NjYxMTYyNjMwODA3NTc1.Xrp_kg.MpUzdXVwA9hdai_teGYT1kKD5YI";
 const BotCommandPrefix = "!";
 const PermissionsNameRole = "Administrator";
 const NoPermissionsMessage = "Nie posiadasz uprawnień!";
